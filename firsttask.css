@@ -1,0 +1,34 @@
+.unlist
+{
+    list-style: none; 
+}
+.headingout
+{
+    font-size: 70px;
+}
+.parawith
+{
+    font-size: 20px;
+}
+.bg
+{
+    height: 600px;
+}
+.btn-light
+{
+  background-color: orange;  
+
+    
+}
+.bgslider1
+{
+    background-image: url("./slider_02.jpg");
+    background-size: cover;
+    opacity: 100%;
+}
+.bgslider2
+{
+    background-image: url("./parallax_04.jpg");
+    background-size: cover;
+    opacity: 100%;
+}
